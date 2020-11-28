@@ -1,6 +1,9 @@
 完成功能：
+
 1.对redis常规操作的封装
+
 2.完成freq周期统计功能
+
 3.完成对counter的json定义和读取操作
 
 JsonTest：对redis常规操作的封装、保存数据到json文件、从json文件中读取
